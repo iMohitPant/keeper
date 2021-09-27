@@ -5,7 +5,7 @@ function Header() {
   return (
     <header>
       <h1>
-        <HighlightIcon /> Keeper
+        <HighlightIcon /> KEEPE₹
       </h1>
     </header>
   );
