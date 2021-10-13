@@ -7,8 +7,8 @@ html {
   font-family: "Montserrat", sans-serif;
 }
 body {
-  background: #eee;
-  background-image: url("https://www.transparenttextures.com/patterns/food.png");
+  background: rgb(0, 0, 0);
+  /* background-image: url("https://w/ww.transparenttextures.com/patterns/food.png"); */
   padding: 0 16px;
 }
 
